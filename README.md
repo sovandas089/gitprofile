@@ -387,7 +387,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/sovandas089/gitprofile"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
@@ -489,7 +489,7 @@ You can customize the meta tags for SEO in `seo`.
 const CONFIG = {
   // ...
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Sovan Das',
     description: '',
     imageURL: '',
   },
@@ -515,9 +515,9 @@ You can link your social media services you're using, including LinkedIn, Twitte
 const CONFIG = {
   // ...
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'sovan-das-x0x0',
+    twitter: 'sovandas',
+    mastodon: 'sovan@mastodon.social',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -651,7 +651,7 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: [], // These projects will not be displayed. example: ['sovandas089/my-project1', 'sovandas089/my-project2']
         },
       },
       manual: {
@@ -733,7 +733,7 @@ const CONFIG = {
   // ...
   blog: {
     source: 'dev',
-    username: 'arifszn',
+    username: 'sovandas',
     limit: 5,
   },
 };
@@ -752,8 +752,8 @@ The posts are fetched by [blog.js](https://github.com/sovandas089/blog.js).
 
 ## 💡 Contribute
 
-To contribute, see the [Contributing guide](https://github.com/sovandas089/gitprofile/blob/main/CONTRIBUTING.md).
+To contribute, see the [Contributing guide](https://github.com/sovandas089/gitprofile/blob/master/CONTRIBUTING.md).
 
 ## 📄 License
 
-[MIT](https://github.com/sovandas089/gitprofile/blob/main/LICENSE)
+[MIT](https://github.com/sovandas089/gitprofile/blob/master/LICENSE)
