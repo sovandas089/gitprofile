@@ -8,12 +8,12 @@
   <p align="center">
     <a href="https://codeclimate.com/github/sovandas089/gitprofile/maintainability"><img src="https://api.codeclimate.com/v1/badges/c60f42d7d0b61bd33e98/maintainability" /></a>
     <a href="https://github.com/sovandas089/gitprofile/actions/workflows/test-deploy.yml"><img src="https://github.com/arifszn/gitprofile/actions/workflows/test-deploy.yml/badge.svg" /></a>
-    <a href="https://github.com/sovandas089/gitprofile/issues"><img src="https://img.shields.io/github/issues/arifszn/gitprofile"/></a>
-    <a href="https://github.com/sovandas089/gitprofile/stargazers"><img src="https://img.shields.io/github/stars/arifszn/gitprofile"/></a>
-    <a href="https://github.com/sovandas089/gitprofile/network/members"><img src="https://img.shields.io/github/forks/arifszn/gitprofile"/></a>
-    <a href="https://github.com/sovandas089/gitprofile/commits/main"><img src="https://img.shields.io/github/last-commit/arifszn/gitprofile/main"/></a>
+    <a href="https://github.com/sovandas089/gitprofile/issues"><img src="https://img.shields.io/github/issues/sovandas089/gitprofile"/></a>
+    <a href="https://github.com/sovandas089/gitprofile/stargazers"><img src="https://img.shields.io/github/stars/sovandas089/gitprofile"/></a>
+    <a href="https://github.com/sovandas089/gitprofile/network/members"><img src="https://img.shields.io/github/forks/sovandas089/gitprofile"/></a>
+    <a href="https://github.com/sovandas089/gitprofile/commits/main"><img src="https://img.shields.io/github/last-commit/sovandas089/gitprofile/main"/></a>
     <a href="https://github.com/sovandas089/gitprofile/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/></a>
-    <a href="https://github.com/sovandas089/gitprofile/blob/main/LICENSE"><img src="https://img.shields.io/github/license/arifszn/gitprofile"/></a>
+    <a href="https://github.com/sovandas089/gitprofile/blob/main/LICENSE"><img src="https://img.shields.io/github/license/sovandas089/gitprofile"/></a>
     <a href="https://idx.google.com/import?url=https%3A%2F%2Fgithub.com%2Fsovandas089%2Fgitprofile"><picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.idx.dev/btn/open_dark_20.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://cdn.idx.dev/btn/open_light_20.svg">
