@@ -85,6 +85,8 @@ const CONFIG = {
   skills: [
     'Java',
     'Flutter & Dart',
+    'Firestore & Firebase',
+    'Application Development',
     'Kotlin',
     'JavaScript',
     'React.js',
